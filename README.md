@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Paweł Kulfan, and I have started learing testing and Java language in October 2023. Since then, my tech stack involves:
 - Java 20
 - Selenium + Cucumber
-- Junit + PageFactory + Gherkin
+- JUnit4 + PageFactory + Gherkin
+- OOP, BDD and POM 
 - 👀 I’m interested in Automated Testing and Java projects
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on automated tests and Java projects
