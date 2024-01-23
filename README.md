@@ -2,7 +2,8 @@
 - Java 20
 - Selenium + Cucumber
 - JUnit4 + PageFactory + Gherkin
-- OOP, BDD and POM 
+- OOP, BDD and POM
+- AI for testers and devs
 - 👀 I’m interested in Automated Testing and Java projects
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on automated tests and Java projects
