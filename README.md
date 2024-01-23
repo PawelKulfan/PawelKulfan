@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paweł Kulfan, and I have started learing testing and Java language in October 2023. Since then, my tech stack involves:
+- 👋 Hi, I’m Paweł Kulfan, and I've started learing testing and Java language in October 2023. Since then, my tech stack involves:
 - Java 20
 - Selenium + Cucumber
 - JUnit4 + PageFactory + Gherkin
