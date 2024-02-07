@@ -13,7 +13,7 @@
 - 📫 How to reach me qlartstudio@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Work Background: Graphic Design, DTP operator, Joomla and Wordpress CMS admin
-- 💞️ Hobbies: wargaming, track racing, trekking, sailing
+- 💞️ Hobbies: UX/UI; Hiking (Tatras, Beskids); Motorsport (F1 & my own race car); Everything regarding Star Wars universe;
 
 ## My projects:
 **APS Energia webpage testing** - Project for exploratory & usability tests of APS Energia production company webpage: www.apsenergia.pl. In its repo You can find Test Plan, reports from test sessions and final report for conducted tests.
